@@ -18,12 +18,12 @@ Currently Available Parameters
 
     id - this must always be given
 
-* optional set 1 - Resizing
+optional set 1 - Resizing
 	
 	width - the desired width of the resized image
 	height - the desired height of the resized image
 
-* optional set 2 - Cropping
+optional set 2 - Cropping
 	
 	cropx1 - the x coordinate for top left corner of the cropping rectangle
 	cropy1 - the y coordinate for the top left
